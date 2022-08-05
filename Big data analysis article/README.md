@@ -1,6 +1,6 @@
 # 빅데이터 분석기사 공부법
 
-데이터캠퍼스 빅데이터 분석기사 교제 사용
+[교제](https://www.datacampus.co.kr/book/book_view.jsp?id=3197&)
 
 1회독 하루에 p.20씩
 
