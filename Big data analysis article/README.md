@@ -2,7 +2,7 @@
 
 [교제](https://www.datacampus.co.kr/book/book_view.jsp?id=3197&)
 
-1회독 하루에 p.20씩
+1회독: p.20/1Day
 
 8월|월|화|수|목|금
 ---|---|---|---|---|---|
