@@ -1,13 +1,17 @@
 # 빅데이터 분석기사 공부법
 
-[교제](https://www.datacampus.co.kr/book/book_view.jsp?id=3197&)
 
-공부법 변경
-1회독: p.20/1Day  ->  1,2,3과목 유튜브 강의,   4과목 책
+필기
+- [교제](https://www.datacampus.co.kr/book/book_view.jsp?id=3197&)
+- 1회독: p.20/1Day + 유튜브 강의
+
+
+실기
+- [교제](https://www.datacampus.co.kr/book/book_view.jsp?id=3228&ch=book)
+- 1회독: p.10/1Day + 유튜브 강의
 
 
 주말복습
-
 
 
 8월|월|화|수|목|금
@@ -28,6 +32,6 @@
 5주|||| | |
 
 
-10.2 필기 합격
+10/2 필기 합격
 
 12월 실기 시험
