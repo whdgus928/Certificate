@@ -9,7 +9,8 @@
 실기
 - [교제](https://www.datacampus.co.kr/book/book_view.jsp?id=3228&ch=book)
 - 1회독: p.10/1Day + 유튜브 강의
-
+- [시험환경](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr)
+- [시험환경](https://dataq.goorm.io/exam/116674/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1))
 
 주말복습
 
