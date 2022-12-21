@@ -12,8 +12,6 @@
 - [기출예제](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr)
 - [시험환경](https://dataq.goorm.io/exam/116674/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1)
 
-주말복습
-
 
 8월|월|화|수|목|금
 ---|---|---|---|---|---|
@@ -33,6 +31,6 @@
 5주|||| | |
 
 
-10/2 필기 합격
-
-12월 실기 시험
+10/2 필기 시험<br>
+12/3 실기 시험<br>
+12/23 실기 합격
